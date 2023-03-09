@@ -19,6 +19,11 @@ body{
     margin-left: auto;
 }
 
+#barra{
+    padding: 5px;
+    background-color: rgb(56, 63, 93);
+}
+
 #capa{
     background-color: rgb(230, 230, 230);
 }
