@@ -4,14 +4,14 @@ body{
     border: 0px;
 }
 
-.topo{
+header{
     display: flex;
     padding: 20px 10%;
 }
-.topo img{
+header img{
     display: inline-block;
 }
-.topo span{
+header span{
     display: inline-block;
 
     align-self: center;
@@ -43,4 +43,8 @@ body{
 }
 .corpo input{
     resize: both;
+}
+
+footer{
+    text-align: center;
 }
